@@ -1,0 +1,57 @@
+EliteBiz v2.0.3 - Améliorations Licence USB & Interface
+========================================================
+
+Date de sortie : 26 octobre 2025
+
+NOUVEAUTÉS MAJEURES
+-------------------
+
+🔑 Système de Licence USB Amélioré
+  ✅ Correction du générateur Python GUI pour compatibilité totale
+  ✅ Structure de fichiers organisée par numéro de série USB
+  ✅ Instructions claires pour l'envoi au client
+  ✅ Activation simplifiée et fiable
+
+🛡️ Monitoring de Clé USB en Temps Réel
+  ✅ Détection automatique du retrait de la clé USB
+  ✅ Modal d'avertissement avec countdown de 5 minutes
+  ✅ Reconnexion automatique si clé rebranchée
+  ✅ Fermeture sécurisée si clé absente après timeout
+  ✅ Interface utilisateur intuitive et claire
+
+🎨 Interface Utilisateur Optimisée
+  ✅ Masquage automatique des badges "Version d'essai" après activation
+  ✅ Suppression des messages de trial pour les licences complètes
+  ✅ Interface propre et professionnelle pour clients activés
+
+CORRECTIONS
+-----------
+  • Correction de la génération de licences Python (encryption compatible)
+  • Correction du monitoring USB pour détection fiable
+  • Correction de l'affichage des statuts de licence dans l'interface
+  • Amélioration de la gestion des états d'activation
+
+TECHNIQUE
+---------
+  • Ajout de l'API `checkUSBPresence()` pour monitoring continu
+  • Ajout du composant `USBMonitor` avec countdown visuel
+  • Amélioration de `LicenseManager.ts` avec méthodes de vérification
+  • Refonte de la structure de fichiers du générateur Python
+
+INSTRUCTIONS DE MISE À JOUR
+----------------------------
+1. L'application détecte automatiquement la mise à jour
+2. Cliquez sur le bouton bleu "Mise à jour disponible"
+3. Téléchargement et installation automatiques
+4. Redémarrage de l'application
+
+NOTES IMPORTANTES
+-----------------
+⚠️ Pour les licences USB :
+  - La clé USB DOIT rester branchée en permanence
+  - Un retrait déclenche un countdown de 5 minutes
+  - Le logiciel se ferme si la clé n'est pas rebranchée
+  - Gardez toujours une sauvegarde de votre license.key
+
+📧 Support : Contactez votre fournisseur pour toute assistance
+
