@@ -1,0 +1,35 @@
+Version: 2.0.1
+Date: 26/10/2025
+Type: Correction critique
+
+CORRECTIFS:
+✅ Correction du système d'activation USB
+   - Le bouton "Activer la Licence" fonctionne maintenant correctement
+   - La clé USB est détectée et validée automatiquement
+   - Message d'erreur clair en cas de problème
+
+✅ Correction des warnings React dans ExpensesPage
+   - Tous les champs optionnels utilisent maintenant des valeurs par défaut
+
+✅ Nouveau calcul du bénéfice réel
+   - Le bénéfice est maintenant calculé correctement basé sur le coût réel des produits vendus
+   - Plus précis que l'ancien calcul (Total ventes - Total achats)
+
+✅ Système de mise à jour automatique activé
+   - L'application vérifie automatiquement les mises à jour
+   - Notifications élégantes pour les nouvelles versions
+   - Installation en un clic
+
+FICHIERS:
+- EliteBiz-2.0.1-x64.exe (Installateur complet)
+- latest.yml (Metadata pour auto-update)
+- EliteBiz-2.0.1-x64.exe.blockmap (Pour mise à jour delta)
+
+TAILLE: ~200 MB
+
+POUR INSTALLER:
+1. Télécharger EliteBiz-2.0.1-x64.exe
+2. Fermer l'ancienne version si ouverte
+3. Lancer l'installateur
+4. Vos données sont préservées automatiquement
+
