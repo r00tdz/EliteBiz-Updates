@@ -2,7 +2,7 @@ version: 2.2.0
 files:
   - url: https://github.com/r00tdz/EliteBiz-Updates/releases/download/v2.2.0/EliteBiz-2.2.0-x64.exe
     sha512: lMEryPlx+lZuKjLmW2b/aI93Q1MwSnzGZPjFb0stMTutexkhdiA9EUBR44h9ZPz+D9rRbuKtXGxquXQp6N3VIA==
-    size: 197000279
+    size: 196797850
 path: https://github.com/r00tdz/EliteBiz-Updates/releases/download/v2.2.0/EliteBiz-2.2.0-x64.exe
 sha512: lMEryPlx+lZuKjLmW2b/aI93Q1MwSnzGZPjFb0stMTutexkhdiA9EUBR44h9ZPz+D9rRbuKtXGxquXQp6N3VIA==
 releaseDate: '2025-10-27T00:34:23.326Z'
