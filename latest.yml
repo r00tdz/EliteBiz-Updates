@@ -1,8 +1,8 @@
-version: 3.0.0
+version: 3.2.1
 files:
-  - url: https://github.com/r00tdz/EliteBiz-Updates/releases/download/v3.0.0/EliteBiz-3.0.0-x64.exe
-    sha512: BkywVRvPgQq0Nx/kuSutZNDWWmJIx8HGbxYba7NNc6rlzGXVROdEWP8rvWRhmggPEo8ZVvdE0Q5UHxcUQpEnXg==
-    size: 210813758
-path: https://github.com/r00tdz/EliteBiz-Updates/releases/download/v3.0.0/EliteBiz-3.0.0-x64.exe
-sha512: BkywVRvPgQq0Nx/kuSutZNDWWmJIx8HGbxYba7NNc6rlzGXVROdEWP8rvWRhmggPEo8ZVvdE0Q5UHxcUQpEnXg==
-releaseDate: '2025-11-13T00:26:28.409Z'
+  - url: EliteBiz-3.2.1-x64.exe
+    sha512: 6eR+VmGwHau+LQdaHmAdagH4/ptoEk+PdCm8wi9X56twUMdlgdOhykeVta/hJ2k/Jq9/Z6IQvOCttb7jv5wqKw==
+    size: 231050657
+path: EliteBiz-3.2.1-x64.exe
+sha512: 6eR+VmGwHau+LQdaHmAdagH4/ptoEk+PdCm8wi9X56twUMdlgdOhykeVta/hJ2k/Jq9/Z6IQvOCttb7jv5wqKw==
+releaseDate: '2026-02-03T00:16:22.883Z'
